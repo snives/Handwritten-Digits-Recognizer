@@ -12,6 +12,7 @@ This model achieves an accuracy of 97.1%
 
 ## Sample Performance
 
+![My Cat]("mnist%20sample.png")
 
 ## Future Improvements
 
