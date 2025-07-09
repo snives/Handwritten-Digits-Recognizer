@@ -12,8 +12,10 @@ This model achieves an accuracy of 97.1%
 
 ## Sample Performance
 
+### Input
 ![MNIST sample](https://raw.githubusercontent.com/snives/Handwritten-Digits-Recognizer/refs/heads/main/mnist%20sample.png)
 
+### Output
 |    |    |    |    |    |   |   |   |    |   |
 |----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|
 |   1 |   0 |   1 |   4 |   0 |   0 |   7 |   3 |   5 |   3 |
